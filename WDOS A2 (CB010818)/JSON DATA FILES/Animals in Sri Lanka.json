@@ -1,0 +1,46 @@
+{
+    "header": {
+      "navigation": {
+        "links": [
+          { "text": "Home", "url": "Home.html" },
+          { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+          { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+          { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+          { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+          { "text": "Yala National Park", "url": "Yala National Park.html" },
+          { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+        ]
+      }
+    },
+    "main": {
+      "sections": [
+        {
+          "title": "Indigenous Animals In Sri Lanka",
+          "animals": [
+            {
+              "name": "Ceylon Spotted Deer",
+              "image": "images/Spotted Deer (Axis axis ceylonensis).jpg",
+              "description": "Only Sri Lanka is home to the Ceylon spotted deer, a subspecies of the axis deer (Axis axis). In Sri Lanka, there is no usage of the name Chital. There is disagreement regarding its validity; some contend that the axis deer is monotypic, meaning it lacks subspecies.These deer live in shrublands, savannas, and lowland dry forests. These deer rarely live in arid mountain regions. Sri Lanka's axis deer populations are regarded as vulnerable, in contrast to the abundant axis deer on the mainland.Deforestation and meat hunting are two threats. In the past, axis deer were widespread throughout Sri Lanka's dry zone, but their numbers have since drastically decreased. There are currently thousands of these deer in Sri Lanka. A few herds of Sri Lankan axis deer reside outside of the protected forest areas, but the majority of them are found in the dry zone's protected areas. Only in protected areas can one find sizable herds."
+            },
+            {
+              "name": "Purple-faced Langur",
+              "image": "images/Purple-faced Langur (Semnopithecus vetulus).jpg",
+              "description": "Also known as the purple-faced leaf monkey, is a species of Old World monkey that is endemic to Sri Lanka. It is a long-tailed arboreal species that is primarily brown in color, has a dark face (with a paler lower face), and is extremely shy. The species was formerly quite common, found in the wet zone villages and suburban areas of Colombo (areas with year-round high temperatures and high humidity, along with monsoon rainstorms). However, rapid urbanization has resulted in a significant decline in the monkey population. It was formerly placed in the genus Trachypithecus, but DNA evidence showed that it was more closely related to the gray langurs, so it was transferred to the genus Semnopithecus."
+            },
+            {
+              "name": "Sloth Bear",
+              "image": "images/Sloth Bear (Melursus ursinus inornatus).jpg",
+              "description": "It is an omnivore that consumes both meat and carrion in addition to nuts, berries, and roots. Its long, hairless snout is one of its main tools for removing insects from decaying stumps and trees. Otherwise, animals are rarely killed by it With a population of less than 1000 (the wild population may be as small as 500) in many isolated populations experiencing population decline, the Sri Lankan sloth bear is extremely threatened. Because the Sri Lankan sloth bear is primarily dependent on natural forests for food, as opposed to other large Sri Lankan animals, the destruction of dry-zone natural forests poses the greatest threat to it. Conflicts have also increased due to increased interactions between humans and sloth bears. These confrontations result in property damage, livestock losses, human deaths and injuries, and retaliatory killing of wildlife that instills fear in people for this species."
+            }
+          ]
+        },
+        {
+          "title": "Explore and Discover these incredible animals in their natural habitats by visiting the following national parks:"
+        }
+      ]
+    },
+    "footer": {
+      "text": "&copy; 2023 Wildlife in Sri Lanka"
+    }
+  }
+  

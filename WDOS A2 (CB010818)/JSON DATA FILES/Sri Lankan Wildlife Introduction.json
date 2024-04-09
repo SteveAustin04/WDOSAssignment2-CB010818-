@@ -1,0 +1,55 @@
+{
+    "header": {
+      "navigation": {
+        "links": [
+          { "text": "Home", "url": "Home.html" },
+          { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+          { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+          { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+          { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+          { "text": "Yala National Park", "url": "Yala National Park.html" },
+          { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+        ]
+      }
+    },
+    "locations": [
+      {
+        "name": "Sinharaja Forest Reserve",
+        "description": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians. Sinharaja is the last remaining relatively undisturbed remnant of tropical humid evergreen forest in Sri Lanka. The property's flora is a relic of Gondwanaland and provides an important component to our scientific understanding of continental drift and an outstanding site for the study of the processes of biological evolution. A geological feature of considerable interest is the presence of the Sinharaja basic zone, with the reserve located within the transition zone of two important rock types characteristic of Sri Lanka; the south-western group and the highland group.",
+        "location": "Sinharaja Forest Reserve",
+        "image": "images/Sinharaja forest reserve 02.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.8991566477052!2d80.45745167499196!3d6.406990793583749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3e76bd109d45f%3A0x8c0ef1010649701b!2sSinharaja%20Forest%20Reserve!5e0!3m2!1sen!2slk"
+      },
+      {
+        "name": "Horton Plains National Park",
+        "description": "Sri Lanka's highlands are situated in the south-central part of the island. The  property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest.  These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.",
+        "location": "Horton Plains National Park",
+        "image": "images/Horton Plains National Park.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.6740385671706!2d80.79975837499546!3d6.809445993188088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2slk"
+      },
+      {
+        "name": "Minneriya National Park",
+        "description": "The Minneriya reservoir is a man-made, non-tidal water retention reservoir, built primarily for irrigation purposes. The reservoir falls within the the Mahaweli River Basin , and is of historical importance, having been built in the third century AD with a catchment area of 24,000 ha. The reservoir and surrounding areas have been declared a National Park. Birdlife International has identified Minneriya as an IBA due to its populations of globally threatened bird species.",
+        "location": "Minneriya National Park",
+        "image": "images/Minneriya National Park.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38441.802702343266!2d80.83222226028128!3d8.031003842066692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afb5e2b46dce15b%3A0xc1c2b289366509bd!2sMinneriya%20National%20Park!5e0!3m2!1sen!2slk"
+      },
+      {
+        "name": "Bundala National Park",
+        "description": "The wetlands within the Bundala National Park consist of 4 shallow brackish water lagoons, salt marshes, mangroves, salterns, seasonal water holes/tanks and streams and the seashore. The adjacent seacoast and surrounding terrain is generally flat with sand dunes and sparse dry evergreen scrub. This biologically rich area is an internationally important wintering ground for migratory water birds, the highlight being the Greater Flamingo (Phoenicopterus ruber). In 1991, Bundala became the first wetland to be declared as a Ramsar site in Sri Lanka.",
+        "location": "Bundala National Park",
+        "image": "images/Bundala National Park.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31732.053416024606!2d81.17825270563017!3d6.196681852614984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae69842ecb214eb%3A0x145a2d402f36beb0!2sBundala%20National%20Park!5e0!3m2!1sen!2slk"
+      }
+    ],
+    "footer": {
+      "text": "&copy; 2023 Wildlife in Sri Lanka",
+      "references": [
+        "UNESCO World Heritage Centre(2020), Sinharaja Forest Reserve. Available at: https://whc.unesco.org/en/list/405 (Accessed: 24th December 2023)",
+        "UNESCO (2010), World Heritage Committee inscribes two new sites on World Heritage List. Available at : https://whc.unesco.org/en/news/640 (Accessed: 24th December,2023)",
+        "International Water Management Institute (2014), Sri Lanka Wetlands Information and Database. Available at : https://archive.ph/20110726201734/http://dw.iwmi.org/wetland_profile/Minneriya.asp  (Accessed : 24th December, 2023)",
+        "International Water Management Institute (2006) Sri Lanka Wetlands Information and Database. Available at : https://web.archive.org/web/20110815084514/http://dw.iwmi.org/wetland_profile/Bundala.asp (Accessed : 24th December, 2023)"
+      ]
+    }
+  }
+  

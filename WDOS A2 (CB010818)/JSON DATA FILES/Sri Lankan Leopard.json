@@ -1,0 +1,67 @@
+{
+    "header": {
+      "navigation": {
+        "links": [
+          { "text": "Home", "url": "Home.html" },
+          { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+          { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+          { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+          { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+          { "text": "Yala National Park", "url": "Yala National Park.html" },
+          { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+        ]
+      }
+    },
+    "main": {
+      "sections": [
+      {
+        "title": "Kumana National Park",
+        "image": "images/leopard cub 02.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126834.9722025849!2d81.51681661605834!3d6.572954544849945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae5c8b55f7156a3%3A0xce605bccbb80201a!2sKumana%20National%20Park",
+        "description": "Kumana, the land of mystery and awe is located on the far eastern corner of the island. It is connected to Yala and is part of the same ecosystem. But due to the access and location, it is quite a long drive to reach compared to Yala. Kumana was initially famous as a bird sanctuary with many species of birds nesting in the waters of Kumana Villu. But in the last decade or so, there has been an increasing number of leopard sightings in the park. The legends say the leopards of Kumana are known to be “man-eaters” and the leopards of Lenama (an area in the park) are mythically known to be larger and deadlier."
+      },
+      {
+        "title": "Udawalawe National Park",
+        "image": "images/leopard cub.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31716.101282319054!2d80.86193360577161!3d6.456538086228034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park",
+        "description": "The southern region of Sri Lanka, Udawalawe, is well known for its Asian elephant population. But a wide range of wildlife, including leopards, calls it home as well. With its grasslands, forests, and Udawalawe Reservoir, the park offers a variety of habitats for various species."
+      },
+      {
+        "title": "Wasgamuwa National Park",
+        "image": "images/sri lankan leopard v3.jpg",
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.3444613799797!2d80.91819877500464!3d7.753241892265705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afb52570f648bc9%3A0xa4d95d7cf2f31436!2sWasgamuwa%20National%20Park",
+        "description": "The Central Province's Wasgamuwa is renowned for its abundant biodiversity. The topography of the park consists of mountains, grasslands, and riverine forests. Numerous wildlife species, including leopards, call it home. For wildlife enthusiasts, Wasgamuwa offers a more off-the-beaten-path experience."
+      }
+    ],
+    "threats": [
+      {
+        "title": "Human-leopard Conflict",
+        "image": "images/threat 01.jpg",
+        "description": "Conflict between humans and leopards occurs when leopards interact with growing human populations. Conflicts like this can arise when domestic animals are preyed upon by leopards, prompting communities to retaliate. It's a complicated problem that is impacted by changes in tolerance levels, competition for resources, and habitat encroachment. Consequences of human-leopard conflict include retaliatory killings of leopards, injuries to humans, and a decline in leopard populations. Conflicts worsen as domestic animals become more of a target for leopards as a result of habitat loss and a decline in natural prey. Leopard conservation may be further jeopardized by unfavorable interactions with humans that could result in a negative perception of the species. Community education initiatives are one way that conservation strategies to address human-leopard conflict aim to increase awareness of leopard behavior and foster coexistence. Better methods of managing livestock, like safe enclosures, are used to lessen the number of domestic animal predators. The goal of conflict resolution techniques is to reduce animosity between communities and leopards. These techniques include paying for losses incurred and using trained personnel to handle conflict situations.",
+        "link": "https://www.dwc.gov.lk/"
+      },
+      {
+        "title": "Habitat Loss and Fragmentation",
+        "image": "images/threat 02.jpg",
+        "description": "Habitat loss and fragmentation are significant threats to leopard populations in Sri Lanka. Fragmented landscapes result from the encroachment of infrastructure development, agricultural expansion, and human activities on natural habitats, which reduces the amount of space available for leopards. The Consequences of habitat loss and fragmentation include a reduction in suitable leopard habitats. Because leopards may enter human settlements in search of food and territory, this may lead to an increase in conflicts between humans and leopards. Additionally, it results in a decrease in the amount of naturally occurring prey, which has an impact on the leopard's capacity to survive. Conservation efforts concentrate on creating and preserving protected areas where leopards can live in order to lessen the threat of habitat loss. In order to safely allow leopards to move between areas, wildlife corridors are established to connect fragmented habitats. Local communities are involved in habitat restoration and protection through community-based conservation initiatives. Programs for raising awareness and educating the public aid in encouraging sensible land use decisions that prevent further habitat loss.",
+        "link": "https://www.leopocon.org/"
+      }
+    ],
+    "footerReferences": [
+      {
+        "title": "S.C. (2021). Top 5 Places in Sri Lanka to see Leopards – Classic Sri Lanka. [online] Available at: https://www.classicsrilanka.com/blog/2021/06/11/top-5-places-in-sri-lanka-to-see-leopards/ [Accessed 11 Jan, 2024]."
+      },
+      {
+        "title": "Mombauer, D. (2020). Sri Lanka: Rich in biodiversity, and human-wildlife conflict. [online] Mongabay Environmental News. Available at: https://news.mongabay.com/2020/07/sri-lanka-rich-in-biodiversity-and-human-wildlife-conflict/.[Accessed 11 Jan, 2024]"
+      },
+      {
+        "title": "www.downtoearth.org.in. (n.d.). Human-leopard conflict: big cats losing battle for survival. [online] Available at: https://www.downtoearth.org.in/blog/wildlife-biodiversity/human-leopard-conflict-big-cats-losing-battle-for-survival-43734. [Accesssed 11 Jan, 2024]"
+      }
+    ],
+    "footer": {
+        "text": "&copy; 2023 Wildlife in Sri Lanka"
+    }
+    
+   }
+}
+  

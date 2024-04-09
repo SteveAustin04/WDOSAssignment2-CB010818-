@@ -1,0 +1,70 @@
+{
+  "header": {
+    "navigation": {
+      "links": [
+        { "text": "Home", "url": "Home.html" },
+        { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+        { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+        { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+        { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+        { "text": "Yala National Park", "url": "Yala National Park.html" },
+        { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+      ]
+    }
+  },
+  "main": {
+    "sections": [
+      {
+        "type": "image",
+        "src": "images/main.jpg",
+        "alt": "Mountains of Sri Lanka",
+        "title": "Wildlife in Sri Lanka",
+        "description": "Explore the rich biodiversity and natural wonders of Sri Lanka's wildlife"
+      },
+      {
+        "type": "image",
+        "src": "images/second.JPG",
+        "alt": "Jungle Fowl",
+        "title": "Biodiversity of Sri Lankan Wildlife",
+        "description": "Sri Lanka is an island covering 65,610 km2 that is located near the southeast tip of the Indian peninsula. Sri Lanka has a high degree of biodiversity in spite of its tiny size. An impressive aspect of Sri Lanka's biodiversity is the remarkably high percentage of endemic species found in both its flora and fauna: 16% of the island's mammals and 23% of its flowering plants are endemic. The unique characteristics of Sri Lanka's biodiversity are a result of the country's extensive topographic and climatic diversity."
+      },
+      {
+        "type": "image",
+        "src": "images/third.jpg",
+        "alt": "Geography of Sri Lanka",
+        "title": "Geography of Sri Lanka",
+        "description": "Sri Lanka is home to 103 rivers. The Mahaweli River, which stretches 335 kilometers (208 mi),is the longest of these. There are fifty-one (10 m/33 ft) or higher natural waterfalls originating from these waterways. At 263 meters (863 feet) high, Bambarakanda Falls is the highest. The length of Sri Lanka's coast is 1,585 km (985 mi). An exclusive economic zone stretching 200 nautical miles—roughly 6.7 times the size of Sri Lanka's land area—is claimed by the country. Highly productive marine ecosystems, such as shallow beds of coastal and estuarine seagrasses and fringing coral reefs, are supported by the coastline and nearby waters"
+      },
+      {
+        "type": "image",
+        "src": "images/fourth.jpg",
+        "alt": "Mangroves",
+        "title": "The Mangrove ecosystem of Sri Lanka",
+        "description": "The mangrove ecosystem of Sri Lanka, which covers an area of more than 7,000 hectares, was essential in reducing the force of the waves during the 2004 Indian Ocean tsunami. The Gulf of Mannar has been shown to contain gas and petroleum, and recoverable amounts are currently being extracted. Minerals are abundant on the island"
+      },
+      {
+        "type": "image",
+        "src": "images/places to visit.jpg",
+        "title": "Places to visit in Sri Lanka",
+        "description": [
+          "Ella - Witness The Countryside Charm\n",
+          "Nuwara Eliya - Covered With Lush-Greenery\n",
+          "Pinnawala Elephant Orphanage - See The Giant Beasts\n",
+          "Polonnaruwa - The Ancient Ruins\n",
+          "Mirissa - Go Whale Watching\n",
+          "Yala National Park - Amidst The Wildlife\n",
+          "Horton Plains National Park - Of Lakes And Greenery\n",
+          "Sinharaja Forest Reserve - Tropical Beauty\n",
+          "Udawalawe National Park - With Wild Animals\n"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "text": "&copy; 2023 Wildlife in Sri Lanka",
+    "references": [
+      "Young Biologist Association(2009), Biological diversity of Sri Lanka. Available at: http://ybiol.tripod.com/biodiv.htm (Accessed: 24th December 2023)",
+      "Elsie Kathleen, C. and Kularatnam, K. (1951), Ceylon: Its Geography, Its Resources, and Its People, 2nd ed. Madras: Macmillan"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    width: 600px;
+}
+/*Style for the navigation bar*/
+nav {
+    background-color: white;
+}
+nav li {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 40px;
+}
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+nav li a {
+    color: black;
+    text-decoration: none;
+    padding: 30px; 
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+p{
+    text-align: center; 
+}
+h2{
+    text-align: center;
+}
+
+/* Footer styles */
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="email"] {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}

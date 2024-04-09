@@ -1,0 +1,44 @@
+{
+    "header": {
+      "navigation": {
+        "links": [
+          { "text": "Home", "url": "Home.html" },
+          { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+          { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+          { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+          { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+          { "text": "Yala National Park", "url": "Yala National Park.html" },
+          { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+        ]
+      }
+    },
+    "main": {
+      "sections": [
+        {
+          "class": "main",
+          "content": {
+            "image": "images/Yala main.jpg",
+            "heading": "Welcome to Yala National Park"
+          }
+        },
+        {
+          "class": "second_section",
+          "content": {
+            "image": "images/yala second.jpg",
+            "text": "Yala National Park is Sri Lanka's second-largest and most popular national park, and it borders the Indian Ocean. Three of the park's five blocks are currently accessible to the general public. Additionally, Kumana National Park, also known as \"Yala East,\" and Lunugamvehera National Park are two nearby parks. Each block has a unique name, for example, Block 1's Palatupana. It is located in the Southern Province and the Uva Province in the southeast of the nation. Situated approximately 300 kilometers (190 miles) away from Colombo, the park spans 979 square kilometers (378 sq mi)."
+          }
+        },
+        {
+          "class": "third_section",
+          "content": {
+            "image": "images/yala third.jpeg",
+            "text": "There have been multiple ancient civilizations in the Yala region. Sithulpahuwa and Magul Vihara, two significant Buddhist pilgrimage sites, are located inside the park. In addition to causing significant damage to Yala National Park, the 2004 Indian Ocean tsunami claimed 250 lives in the area. Since 2009, when the park's security situation improved, the number of visitors has increased."
+          }
+        }
+      ]
+    },
+    "footer": {
+      "text": "&copy; 2023 Wildlife in Sri Lanka"
+    }
+  }
+  

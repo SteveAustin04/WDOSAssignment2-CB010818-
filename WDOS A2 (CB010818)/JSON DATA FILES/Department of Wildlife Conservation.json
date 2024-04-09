@@ -1,0 +1,69 @@
+{
+    "header": {
+      "navigation": {
+        "links": [
+          { "text": "Home", "url": "Home.html" },
+          { "text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html" },
+          { "text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html" },
+          { "text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html" },
+          { "text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html" },
+          { "text": "Yala National Park", "url": "Yala National Park.html" },
+          { "text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+        ]
+      }
+    },
+    "main": {
+      "sections": [
+        {
+          "title": "Department of Wildlife Conservation",
+          "image": "images/Department of wildlife conservation - Ceylon independant.jpg",
+          "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31687.202514094577!2d79.88915440602784!3d6.902523658183574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation",
+          "description": "Conservation of Sri Lanka's irreplaceable indigenous flora and fauna together with their natural habitats is a national priority. The Department of Wildlife Conservation (DWC) is the principal government institution responsible for the protection of wildlife resources of the country, over its entire land and sea territories. DWC also bears the legal authority to establish and manage the network of Wildlife Protected Areas (WLPAs) of the country, which at present exceeds a total area of 8500km2; 14% of Sri Lanka‟s land surface. Following table illustrates the categories and the number of wildlife protected areas of each category that have been declared by Department of Wildlife Conservation under the legal provisions of Fauna & Flora Protection Ordinance (FFPO)."
+        },
+        {
+          "title": "Protected areas in Sri Lanka",
+          "areas": [
+            {
+              "name": "Muthurajawela Wetlands",
+              "image": "images/Muthurajawela Wetlands.jpg",
+              "mapUrl": "https://maps.app.goo.gl/y6zvChhHCK6L6z88A"
+            },
+            {
+              "name": "Bolgoda Lake",
+              "image": "images/Bolgoda Lake.jpg",
+              "mapUrl": "https://maps.app.goo.gl/kLDxk7Bx69mPcds76"
+            },
+            {
+              "name": "Minneriya National Park",
+              "image": "images/Minneriya National Park..jpg",
+              "mapUrl": "https://maps.app.goo.gl/hbHT3sf21wiKppec9"
+            },
+            {
+              "name": "Adam's Bridge",
+              "image": "images/Adam's bridge.jpg",
+              "mapUrl": "https://maps.app.goo.gl/yEjSgbsynhEY4g4n9"
+            },
+            {
+              "name": "Pigeon island national park",
+              "image": "images/Pigeon island national park.jpg",
+              "mapUrl": "https://maps.app.goo.gl/ajFY8eeBmrcB8aZy5"
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "text": "&copy; 2023 Wildlife in Sri Lanka",
+      "references": [
+        {
+          "title": "Department of wildlife Conservation (2017)",
+          "url": "https://www.parliament.lk/uploads/documents/paperspresented/performance-report-department-of-wildlife-conservation-2017.pdf"
+        },
+        {
+          "title": "Leonard, p.(2015) Cruising down the ecology of the Negombo lagoon, Sunday Times",
+          "url": "https://www.sundaytimes.lk/150517/plus/cruising-down-the-ecology-of-the-negombo-lagoon-148770.html"
+        }
+      ]
+    }
+  }
+  

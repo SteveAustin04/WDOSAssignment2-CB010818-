@@ -1,0 +1,40 @@
+{
+    "header": {
+        "navigation": {
+            "links": [
+                {"text": "Home", "url": "Home.html"},
+                {"text": "Wildlife Introduction", "url": "Sri Lankan wildlife introduction.html"},
+                {"text": "Wildlife Conservation", "url": "Department of Wildlife Conservation.html"},
+                {"text": "Sri Lankan Leopard", "url": "Sri Lankan Leopard.html"},
+                {"text": "Animals in Sri Lanka", "url": "Animals in Sri Lanka.html"},
+                {"text": "Yala National Park", "url": "Yala National Park.html" },
+                {"text": "Wilpattu National Park", "url": "Wilpattu National Park.html" }
+            ]
+        }
+    },
+    "main": {
+        "sections": [
+            {
+                "content": {
+                    "image": "images/wilpattu_main.jpeg",
+                    "heading": "Welcome to Wilpattu National Park"
+                }
+            },
+            {
+                "content": {
+                    "image": "images/wilpattu_second.jpeg",
+                    "text": "Wilpattu National Park is a Sri Lankan national park. The presence of 'Willus' (natural lakes), which are sand-rimmed water basins or depressions that naturally fill with rainwater, is what makes this park special. Situated in Sri Lanka's northwest coast lowland dry zone, the park is roughly 180 km (110 mi) north of Colombo, 30 km (19 mi) west of Anuradhapura, and 26 km (16 mi) north of Puttalam. The park is 1,317 km2 (508 sq mi) (131,693 hectares) in area and ranges from 0–152 m (0–499 ft) above sea level. There are roughly 106 lakes (Willu) and tanks dispersed across Wilpattu. The biggest and most established national park in Sri Lanka is Wilpattu. The population of leopards (Panthera pardus kotiya) in Wilpattu is well known worldwide. The Wilderness and Wildlife Conservation Trust conducted a remote camera survey in Wilpattu from July to October 2015. The survey area included photographs of 49 individual leopards, with a core area density between that of Yala National Park's Block I and Horton Plains National Park."
+                }
+            },
+            {
+                "content": {
+                    "image": "images/wilpattu_third.jpeg",
+                    "text": "Due to security concerns surrounding the Sri Lankan Civil War, the park was closed from December 1988 to March 16, 2003, and it was reopened to visitors sixteen years later. Only about 25% of the park is currently open to visitors; the remaining area is mostly covered in scrub or dense forest. The months of February through October are the busiest for visitors, though several private ecotourism companies run safaris all year round."
+                }
+            }
+        ]
+    },
+    "footer": {
+        "text": "&copy; 2023 Wildlife in Sri Lanka"
+    }
+}
